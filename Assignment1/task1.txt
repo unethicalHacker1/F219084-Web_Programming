@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Calculator</title>
+</head>
+<center>
+<body>
+    <div style="border: 2px solid black;background-color: #66666D;height:260px;width: 220px;border-radius: 20px;">
+        <div style="display: flex;justify-content:space-evenly">
+           <center> <input type="text" id="result" readonly style="width: 140px;height:30px;margin-top:10px;margin-bottom:10px;border-radius:5px;background-color:#D1D6E1"></center>
+           <button type="button" style="text-align:center;height: 38px;width:40px;margin:5px;background-color:#FFFFFF;border-radius:5px;cursor: pointer;"><b>c</b></button>
+        </div>
+        <center><div style="justify-content: space-between;" >
+            <button type="button" style="text-align:center;height: 40px;width:40px;margin:5px;background-color:#FFFFFF;border-radius:5px;cursor: pointer;"><b>1</b></button>
+            <button type="button" style="text-align:center;height: 40px;width:40px;margin:5px;background-color:#FFFFFF;border-radius:5px;cursor: pointer;"><b>2</b></button>
+            <button type="button" style="text-align:center;height: 40px;width:40px;margin:5px;background-color:#FFFFFF;border-radius:5px;cursor: pointer;"><b>3</b></button>
+            <button type="button" style="text-align:center;height: 40px;width:40px;margin:5px;background-color:#FFFFFF;border-radius:5px;cursor: pointer;"><b>/</b></button>
+        </div></center>
+        <center><div style="justify-content: space-between;" >
+            <button type="button" style="text-align:center;height: 40px;width:40px;margin:5px;background-color:#FFFFFF;border-radius:5px;cursor: pointer;"><b>4</b></button>
+            <button type="button" style="text-align:center;height: 40px;width:40px;margin:5px;background-color:#FFFFFF;border-radius:5px;cursor: pointer;"><b>5</b></button>
+            <button type="button" style="text-align:center;height: 40px;width:40px;margin:5px;background-color:#FFFFFF;border-radius:5px;cursor: pointer;"><b>6</b></button>
+            <button type="button" style="text-align:center;height: 40px;width:40px;margin:5px;background-color:#FFFFFF;border-radius:5px;cursor: pointer;"><b>*</b></button>
+        </div></center>
+        <center><div style="justify-content: space-between;" >
+            <button type="button" style="text-align:center;height: 40px;width:40px;margin:5px;background-color:#FFFFFF;border-radius:5px;cursor: pointer;"><b>7</b></button>
+            <button type="button" style="text-align:center;height: 40px;width:40px;margin:5px;background-color:#FFFFFF;border-radius:5px;cursor: pointer;"><b>8</b></button>
+            <button type="button" style="text-align:center;height: 40px;width:40px;margin:5px;background-color:#FFFFFF;border-radius:5px;cursor: pointer;"><b>9</b></button>
+            <button type="button" style="text-align:center;height: 40px;width:40px;margin:5px;background-color:#FFFFFF;border-radius:5px;cursor: pointer;"><b>-</b></button>
+        </div></center>
+        <center><div style="justify-content: space-between;" >
+            <button type="button" style="text-align:center;height: 40px;width:40px;margin:5px;background-color:#FFFFFF;border-radius:5px;cursor: pointer;"><b>0</b></button>
+            <button type="button" style="text-align:center;height: 40px;width:40px;margin:5px;background-color:#FFFFFF;border-radius:5px;cursor: pointer;"><b>.</b></button>
+            <button type="button" style="text-align:center;height: 40px;width:40px;margin:5px;background-color:#F89A3A;border-radius:5px;cursor: pointer;"><b>=</b></button>
+            <button type="button" style="text-align:center;height: 40px;width:40px;margin:5px;background-color:#FFFFFF;border-radius:5px;cursor: pointer;"><b>+</b></button>
+        </div></center>
+    </div>
+</body></center>
+</html>
