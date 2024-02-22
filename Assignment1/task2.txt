@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Time table</title>
+</head>
+<body>
+
+    <table cellspacing="0" border="1" align="center" width="90%" height="50%">
+        <div style="height: 5%;">
+        <tr align="center">
+            <p align="center">
+                Department of Computer Science <br>
+                <h1 align="center">BSC-6E</h1>
+            </p>
+            <td style="width: 10%;">
+
+            </td>
+            <td style="width: 5%;">
+                <p>
+                   8:45
+                   <br>
+                    9:15
+                </p>
+            </td>
+            <td style="width: 5%;">
+                <p>
+                    9:15
+                    <br>
+                     9:45
+                 </p>
+            </td>
+            <td style="width: 5%;">
+                <p>
+                     9:45
+                     <br>
+                     10:10
+                 </p>
+            </td style="width: 5%;">
+            <td>
+                <p>
+                     10:15
+                     <br>
+                     10:45
+                 </p>
+            </td>
+            <td style="width: 5%;">
+                <p>
+                     10:45
+                     <br>
+                     11:15
+                 </p>
+            </td>
+            <td style="width: 5%;">
+                <p>
+                     11:15
+                     <br>
+                     11:40
+                 </p>
+            </td>
+            <td>
+                <p>
+                     11:45
+                     <br>
+                     12:15
+                 </p>
+            </td>
+            <td>
+                <p>
+                     12:15
+                     <br>
+                     12:45
+                 </p>
+            </td>
+            <td>
+                <p>
+                     12:45
+                     <br>
+                     1:10
+                 </p>
+            </td>
+            <td>
+                <p>
+                     1:10
+                     <br>
+                     1:45
+                 </p>
+            </td>
+            <td>
+                <p>
+                     1:45
+                     <br>
+                     2:15
+                 </p>
+            </td>
+            <td>
+                <p>
+                     2:15
+                     <br>
+                     2:45
+                 </p>
+            </td>
+            <td>
+                <p>
+                     2:45
+                     <br>
+                     3:10
+                 </p>
+            </td>
+            <td>
+                <p>
+                     3:15
+                     <br>
+                     3:45
+                 </p>
+            </td>
+            <td>
+                <p>
+                     3:45
+                     <br>
+                     4:15
+                 </p>
+            </td>
+            <td>
+                <p>
+                     4:15
+                     <br>
+                     4:40
+                 </p>
+            </td>
+        </tr>
+    </div>
+    <div style="height: 5%;">
+        <tr style="width: 5%;">
+            <th >MO</th>
+            <td></td>
+            <td> </td>
+            <td> </td>
+            <td colspan="3" align="center"><p><b>Web Programming</b> </p>
+                <div style="display:flex; justify-content: space-between;">
+                    <div>R-8</div>
+                    <div>S.Mustafa</div>
+                    
+                </div>
+            </td>
+            <td colspan="3" align="center"><p><b>Parallel and Distributed <br>Computing</b></p> 
+                <div style="display:flex; justify-content: space-between;">
+                    <div>R-7</div>
+                    <div>A.Saeed</div>
+                
+            </div>
+                <hr style="margin: auto;">
+                <p><b>Parallel and Distributed <br>Computing</b> </p>
+                <div style="display:flex; justify-content: space-between;">
+                    <div>R-9</div>
+                    <div>M.Arshad</div>
+                    
+                </div>
+            </td>
+            <td> </td>
+            <td colspan="3" align="center"><p><b> Artificial Intelligence</b></p> 
+                <div style="display:flex; justify-content: space-between;">
+                    <div>R-13</div>
+                    <div>A.Raza</div>
+                
+
+                <td colspan="3" align="center"><p><b>Parallel and Distributed <br>Computing</b> </p> 
+                    <div style="display:flex; justify-content: space-between;">
+                        <div>R-19</div>
+                        <div>M.Arshad</div>
+                    
+                </div>
+                    <hr style="margin: auto;">
+                    <p><b>Parallel and Distributed <br>Computing</b></p>
+                    <div style="display:flex; justify-content: space-between;">
+                        <div>R-7</div>
+                        <div>A.Saeed</div>
+                        
+                    </div>
+                </td>
+                
+        </tr>
+        <tr style="width: 5px;height: 40px">
+            <th >TU</th>
+            <td colspan="3" align="center">
+                <p><b>Computer Networks</b> </p>
+                <div style="display:flex; justify-content: space-between;">
+                    <div>R-19</div>
+                    <div>Dr.Umar</div>
+                    
+                </div>
+            </td>
+            
+            <td colspan="3" align="center"><p><b>Artificial Intelligence</b> </p>
+                <div style="display:flex; justify-content: space-between;">
+                    <div>R-10</div>
+                    <div>A.Raza</div>
+                    
+                </div>
+            </td>
+            <td > </td>
+            <td> </td>
+            <td ></td>
+            <td></td>
+            <td colspan="6" align="center"><p><b>Artificial Intelligence-Lab</b> </p>
+                <div style="display:flex; justify-content: space-between;height: 50px;">
+                    <div>Lab#1</div>
+                    <div>A.Tabassam</div>
+                    
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <th>WE</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td colspan="6" align="center"><p><b>Computer Networks-Lab</b></p>
+            <div style="display:flex; justify-content: space-between; height: 50px;">
+                <div>lab#1</div>
+                <div>A.Hamza</div>
+                
+            </div>
+        </td>
+        </tr>
+        <tr>
+            <th>TH</th>
+            
+            <td colspan="3" align="center">
+                <p align="right">group-1</p>
+                <p><b>Parallel and Distributed <br>Computing</b></p>
+                <div style="display:flex; justify-content: space-between;">
+                    <div>R-6</div>
+                    <div>M.Arshad</div>
+                </div>
+            </td>
+            
+            <td colspan="3" align="center">
+                <p><b>Computer Networks</b></p>
+                <div style="display:flex; justify-content: space-between;">
+                    <div>R-15</div>
+                    <div>Dr.Umar</div>
+                </div>
+            </td>
+            
+            <td colspan="3" align="center">
+                <p><b>Software Design and <br>Analysis</b></p>
+                <div style="display:flex; justify-content: space-between;">
+                    <div>R-19</div>
+                    <div>A.Azam</div>
+                </div>
+            </td>
+            <td></td>
+            <td colspan="3" align="center">
+                <p><b>Web Programming</b></p>
+                <div style="display:flex; justify-content: space-between;">
+                    <div>Lab#1</div>
+                    <div>S.Mustafa</div>
+                </div>
+            </td>
+            <td colspan="3" align="center">
+                <p><b>Parallel and Distributed <br>Computing</b></p>
+                <div style="display:flex; justify-content: space-between;">
+                    <div>R-6</div>
+                    <div>M.Arshad</div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <th>FR</th>
+            <td colspan="3" align="center">
+                <p align="right">group-2</p>
+                <p><b>Parallel and Distributed <br>Computing</b></p>
+                <div style="display:flex; justify-content: space-between;">
+                    <div>R-8</div>
+                    <div>A.Saeed</div>
+                </div>
+            </td>
+            <td colspan="3" align="center">
+                <p><b>Software Design and <br>Analysis</b></p>
+                <div style="display:flex; justify-content: space-between;">
+                    <div>R-19</div>
+                    <div>A.Azam</div>
+                </div>
+            </td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td colspan="3" align="center">
+                <p align="right">group-3</p>
+                <p><b>Parallel and Distributed <br>Computing</b></p>
+                <div style="display:flex; justify-content: space-between;">
+                    <div>R-8</div>
+                    <div>A.Saeed</div>
+                </div>
+            </td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+
+    </div>
+    </table>
+
+</body>
+</html>
