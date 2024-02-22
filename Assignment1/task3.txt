@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CV</title>
+    </head>
+<body style="justify-content: center;display:flex;">
+
+    <div style="display:grid; grid-template-columns:1fr 2fr;">
+
+    <div style="background-color:#0F1035; ">
+        <img src="IMG_4289.JPG" alt="Soban" height="150px" width="150px"style="padding: 10px;">
+        <h2 style="padding: 10px; color:white">Contact</h2>
+        <p style="padding: 10px;color:white"><b>Email id: </b>f219084@cfd.nu.edu.pk</p>
+        <p style="padding: 10px;color:white"><b>Mobile no: </b>+9232134454</p>
+        <h2 style="padding: 10px;color:white">Skills</h2>
+        <ul>
+            <li style="color:white"><b style="color:white">Programming Languages: <br>Python,Java,C++</b></li>
+            <li style="color:white"><b style="color:white">Frontend : HTML5,CSS3</b></li>
+        </ul>
+        <h2 style="padding: 10px;color:white">Language</h2>
+        <ul>
+            <li style="color:white">English</li>
+            <li style="color:white">Urdu</li>
+            <li style="color:white">Punjabi</li>
+        </ul>
+        <h2 style="padding: 10px;color:white">Hobbies</h2>
+        <ul>
+            <li style="color:white">E-Gaming</li>
+            <li style="color:white">Snooker</li>
+        </ul>
+
+    </div>
+    <div style="background-color:#7FC7D9; width:100%">
+        <h2 style="padding: 15px;color:white">Muhammad Soban</h2>
+        <p style="padding: 15px;color:white">Web Developer</p>
+        <h3 style="padding-left:15px;color:white">Summary</h3>
+        <p style="padding: 15px;color:white">To secure a challenging position in a reputable organisation to expand my learning knowledge and skills.</p>
+        <h2 style="padding-left: 15px;color:white">Experience</h2>
+        <ol>
+            <b><li style="color:white">OptimumTech pvt ltd - Junior Flutter Developer</li></b>
+        
+        <p style="color:white" align="center">(June 2023 to Present)</p>
+
+            <ul>
+                <li style="color:white;">Actively engaged in app creative design and development.</li>
+                <li style="color: white;">Designing projects and planning.</li>
+            </ul>
+            <b><li style="color:white;padding-top: 25px;">ARBISOFT pvt ltd - Junior Web Developer</li></b>
+            <p style="color:white;"align="center">(August 2021 to December 2021)</p>
+
+            <ul>
+                <li style="color: white;">Actively engaged in web creative design and development.</li>
+                <li style="color: white;">Designing projects and planning.</li>
+                <li style="color: white;">Working on designing.</li>
+            </ul>
+        </ol>
+        <h2 style="padding: 15px;color:white">Education</h2>
+        <div style="display: flex;justify-content:space-between;color:white;padding:15px">
+        <div>
+            University
+        </div>
+        <div>
+            Passing Year
+        </div>
+        <div>
+            CGPA
+        </div>
+    </div>
+    <div style="display: flex;justify-content:space-between;color:white;padding:15px">
+        <div>
+            FAST-NU
+        </div>
+        <div>
+            2024
+        </div>
+        <div>
+            2.65
+        </div>
+    </div>
+    <h2 style="padding: 15px;color:white">Projects</h2>
+    <p style="padding: 15px;color:white">This porject is based on HTML and inline CSS.</p>
+    </div>
+</div>
+</body>
+</html>
