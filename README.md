@@ -1,4 +1,6 @@
-Web programming assignment 2. In this assignment I have worked on basics of javascript and bootstrap.
+Web programming assignment 2. 21F-9084_Muhammad Soban_6-E
+
+In this assignment I have worked on basics of javascript and bootstrap.
 Here are the Screen shots of my assignment.
 ![image](https://github.com/unethicalHacker1/new_web_programming/assets/119396585/7684b8b6-a807-4e6f-baa0-5cac78b842f0)
 ![image](https://github.com/unethicalHacker1/new_web_programming/assets/119396585/7964d11a-fcaa-47d8-a271-d90b3f2e3cd9)
