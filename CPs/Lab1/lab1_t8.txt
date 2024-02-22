@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>first web page</title>
+<style>
+    table, th, td {
+      border: 1px solid black;width: 50; height: 50;
+    }
+    </style>
+</head>
+<center><body>
+
+    <form action="https://www.nu.edu.pk/">
+        <label for="fname">Username:</label>
+        <input type="text" id="Username" name="Username" required><br><br>
+        <label for="lname">Password:</label>
+        <input type="text" id="Password" name="Password" required><br><br>
+        <input type="submit" value="Submit">
+      </form>
+</body></center>
+</html>

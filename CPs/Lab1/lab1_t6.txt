@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>first web page</title>
+<style>
+    table, th, td {
+      border: 1px solid black;width: 50; height: 50;
+    }
+    </style>
+</head>
+<center><body>
+
+    <table cellspacing="0" border="1" width="40%" hight="40%">
+        <tr>
+            <th rowspan="3">April</th>
+            <td>Example</td>
+            <td>Example</td>
+        </tr>
+        <tr>
+        <td>Example</td>
+        <td>Example</td>
+    </tr>
+        <tr>
+            <td>Example</td>
+            <td>Example</td>
+        </tr>
+        <tr>
+            <td>Example</td>
+            <td>Example</td>
+            <td>Example</td>
+        </tr>
+        <tr>
+            <td>Example</td>
+            <td>Example</td>
+            <td>Example</td>
+        </tr>
+        
+    </table>
+</body></center>
+</html>

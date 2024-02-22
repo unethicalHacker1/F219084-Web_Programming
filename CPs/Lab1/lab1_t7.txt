@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>first web page</title>
+
+</head>
+<center><body>
+
+    <table cellspacing="0" border="1" width="40%" height="40%">
+        <tr align="center">
+           2022
+        </tr>
+        <tr>
+        <td>Example</td>
+        <td>Example</td>
+        <td>Example</td>
+    </tr>
+        <tr>
+            <td rowspan="2" colspan="2">Example</td>
+            <td>Example</td>
+        </tr>
+        <tr>
+            <td>Example</td>
+        </tr>
+        <tr>
+            <td>Example</td>
+            <td>Example</td>
+            <td>Example</td>
+        </tr>
+        
+    </table>
+</body></center>
+</html>

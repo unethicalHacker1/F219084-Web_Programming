@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>my website</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+    <h2 class="container">Button Styles</h2>
+<div class="container">
+  <button type="button" class="btn" onclick="myFunction1()">Basic</button>
+  <button type="button" class="btn btn-default"onclick="myFunction2()">Default</button>
+  <button type="button" class="btn btn-primary"onclick="myFunction3()">Primary</button>
+  <button type="button" class="btn btn-success"onclick="myFunction4()">Success</button>
+  <button type="button" class="btn btn-info" onclick="myFunction5()">Info</button>
+  <button type="button" class="btn btn-warning" onclick="myFunction6()">Warning</button>
+  <button type="button" class="btn btn-danger" onclick="myFunction7()">Danger</button>
+  <button type="button" class="btn btn-link" onclick="myFunction8()">Link</button>      
+</div>
+<script>
+    function myFunction1() {
+        alert ("Basic Button clicked!");
+      }
+      function myFunction2() {
+        alert ("Default Button clicked!");
+      }
+      function myFunction3() {
+        alert ("Primary Button clicked!");
+      }
+      function myFunction4() {
+        alert ("Success Button clicked!");
+      }
+      
+      function myFunction5() {
+        alert ("Info Button clicked!");
+      }
+      function myFunction6() {
+        alert ("Warning Button clicked!");
+      }
+      function myFunction7() {
+        alert ("Danger Button clicked!");
+      }
+      function myFunction8() {
+        alert ("Link Button clicked!");
+      }
+</script>
+
+</body>
+</html>

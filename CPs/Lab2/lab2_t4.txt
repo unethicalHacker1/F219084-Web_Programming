@@ -1,0 +1,46 @@
+HTML:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my website</title>
+    <link rel="stylesheet" href="lab2_t3_style.css">
+</head>
+<body>
+    <center>
+    <div class="div1" align="center">
+        <img src="https://media.timeout.com/images/105237824/image.jpg" alt="germany" height="500px" width="500px">
+        <p id="para">Germany</p>
+    </div>
+</center>
+    
+</body>
+</html>
+CSS:
+.div1{
+    width: 800px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    position: relative;
+    animation: slideFromLeft 0.2s ;
+    animation-duration: 3s;
+}
+@keyframes slideFromLeft {
+    0% {
+      left: -1000px;
+    }
+    100% {
+      left: 1px;
+    }
+}
+
+#para{
+    padding-bottom: 10px;
+}
+#para{
+    padding-bottom: 10px;
+}
+#para{
+    padding-bottom: 10px;
+}

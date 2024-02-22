@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>First web page</title>
+</head>
+<body bgcolor="FFF6E9">
+<p><b>This is bold text.</b><br><br>
+<big>This is big text</big><br><br>
+<strong>This is a strong text!<br><br></strong>
+<i>This text is italic.</i><br><br>
+<em>This is emphasized tag.</em><br><br>
+<kbd>This is computer output.</kbd><br><br>
+This is <sub>Subscript</sub> and this is <sup>Superscript.</sup></p>
+ 
+</body>
+</html>

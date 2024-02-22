@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" 
+    rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" 
+    crossorigin="anonymous">
+    <title>my website</title>
+</head>
+<body>
+    <div class="container pt-5">
+    <form>
+        <label for="month">Name of Month:</label>
+        <input type="text" id="month" placeholder="Month" required>
+    </form>
+    <div class="container pt-2 mr-3">
+        <button type="button" class="btn btn-dark" onclick="calculateDays()">Submit</button>
+    </div>
+    <div class="container pt-3">
+    <div id="days"></div>
+</div>
+</div>
+    <script>
+        function calculateDays() {
+            var monthName = document.getElementById('month').value.toLowerCase();
+            var result;
+            var months = {
+                        "january": 31,
+                        "february": 28,
+                        "march": 31,
+                        "april": 30,
+                        "may": 31,
+                        "june": 30,
+                        "july": 31,
+                        "august": 31,
+                        "september": 30,
+                        "october": 31,
+                        "november": 30,
+                        "december": 31
+                    };
+            if (monthName in months) {
+                
+                result = months[monthName];
+                document.getElementById('days').innerHTML = "<p class='text-danger'>Number of days in " + monthName + ": " + result + "</p>";
+            } else {
+                
+                document.getElementById('days').innerHTML = "<p class='text-danger'>Invalid month</p>";
+            }
+        }
+        </script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+ 
+<title>First web page</title>
+</head>
+<body bgcolor="FFF6E9">
+<h1 >This is FAST's Logo.</h1>
+<center><img src="https://i.ytimg.com/vi/ofN-g6xc1Vw/maxresdefault.jpg" alt="Fast logo" width="500" height="500"></center>
+</body>
+</html> 

@@ -1,0 +1,47 @@
+HTML:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my website</title>
+    <link rel="stylesheet" href="lab2_t2_style.css">
+</head>
+<body>
+    <div id="div1">
+        <center>
+        <form class="form1">
+            <input placeholder="Name*" name="" id="">
+        </form>
+        <form class="form1">
+            <input placeholder="Username*" name="" id="">
+        </form>
+        <form class="form1">
+            <input placeholder="Password*" name="" id="">
+        </form>
+        <form class="form1">
+            <input placeholder="Number*" name="" id="">
+        </form>
+        <form class="form1">
+            <input placeholder="Email id*" name="" id="">
+        </form>
+        <button id="btn">Register</button>
+    </center>
+    </div>
+</body>
+</html>
+CSS:
+#div1{
+    background-color: #2E86C1;
+    width: 250px;
+    height: 250px;
+}
+.form1{
+    padding-top: 10px;
+    padding: 10px;
+}
+#btn{
+    width: 171px;
+    background-color: #CB4335;
+    color: white;
+}

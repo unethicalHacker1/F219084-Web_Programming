@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my web page</title>
+    <link rel="stylesheet" href="lab2_style.css">
+</head>
+<body>
+    <div id="div_1">
+        <div id="div_2">
+            <kbd>Start CSS Exercises</kbd>
+        </div>
+        <div id="div_3">
+            <kbd>Good luck!</kbd>
+        </div>
+        <div id="div_4">
+            <button id="btn1">
+                <kbd>Start CSS Exercises ></kbd>
+            </button>
+        </div>
+        
+    </div>
+</body>
+</html>
+CSS:
+#div_1{
+    background-color: #292C35;
+    width: 500px;
+    height: 100px;
+}
+#div_2{
+    color: white;
+    font-size:large;
+    padding: 5px;
+}
+#div_3{
+    color: white;
+    font-size:smaller;
+    padding: 5px;
+}
+#div_4{
+    padding-top: 10px;
+    padding-left: 5px;
+}
+#btn1{
+    background-color: #07A96B;
+    color: white;
+    font-size:small;
+    padding: 5px;
+    border-radius: 5px;
+}
